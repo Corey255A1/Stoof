@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stoof", "Stoof\Stoof.csproj", "{86515B3D-B31B-42B2-9BA5-94A2E75DE84F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86515B3D-B31B-42B2-9BA5-94A2E75DE84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86515B3D-B31B-42B2-9BA5-94A2E75DE84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86515B3D-B31B-42B2-9BA5-94A2E75DE84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86515B3D-B31B-42B2-9BA5-94A2E75DE84F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E62E1AB6-11FE-46A2-92A2-CD4ABFD881DB}
+	EndGlobalSection
+EndGlobal
